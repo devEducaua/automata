@@ -15,5 +15,5 @@ $ deno conway.ts
 ```
 # already implemented:
 - rule110
-- conway game of the live
+- conway game of the life
 
